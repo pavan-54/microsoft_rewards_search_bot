@@ -17,35 +17,6 @@ The Microsoft Rewards Search Bot is an ingenious Python script designed to make 
 
 3. Install the required dependencies using pip. Open a terminal/command prompt in the project directory and run the following command:
 
-```bash
-pip install selenium
-```
-
-
-  
-Certainly! Here's the complete README.md content, all in Markdown format:
-
-sqlCopy code
-
-`# Microsoft Rewards Search Bot - Earn Rewards with Ease!
-
-The Microsoft Rewards Search Bot is an ingenious Python script designed to make your life easier by automating web searches on the Bing search engine using the Microsoft Edge browser. This nifty tool empowers you to effortlessly earn rewards points through the Microsoft Rewards program, making it a breeze to redeem exciting perks and benefits.
-
-## Key Features:
-- **Automated Web Searches:** Sit back and relax as the script seamlessly performs a series of automated web searches, saving you valuable time and effort.
-- **Unique Search Queries:** With a touch of magic, the bot generates intriguing and varied search queries, ensuring each search is as unique as you are.
-- **Customizable Searches:** Tailor the bot to suit your preferences by setting your initial keyword and specifying the number of searches you want to perform.
-- **Web Scraping with Selenium:** The script ingeniously interacts with the Microsoft Edge browser using Selenium WebDriver, enabling intelligent and autonomous searches.
-- **User-Friendly Delays:** Embracing responsible search practices, the bot incorporates gentle pauses between searches, ensuring a smooth and user-friendly experience.
-
-## Installation:
-
-1. Clone or download the project repository from GitHub.
-
-2. Ensure you have Python installed on your system. If not, download and install Python from the official website: [python.org](https://www.python.org/downloads/)
-
-3. Install the required dependencies using pip. Open a terminal/command prompt in the project directory and run the following command:
-
 ```
 pip install selenium` 
 ```
